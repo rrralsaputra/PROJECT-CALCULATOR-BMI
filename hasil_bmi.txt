@@ -1,0 +1,70 @@
+Nama: Bu Atik
+Gender: Perempuan
+Berat Badan: 50.0 kg
+Tinggi Badan: 155.0 cm
+Hasil BMI: 20.81
+Kategori: Normal weight / Ideal
+----------------------------------------
+Nama: gerall
+Gender: Laki-laki
+Berat Badan: 53.0 kg
+Tinggi Badan: 170.0 cm
+Hasil BMI: 18.34
+Kategori: Underweight / Kurus
+----------------------------------------
+Nama: Fawwaz
+Gender: Laki-laki
+Berat Badan: 80.0 kg
+Tinggi Badan: 160.0 cm
+Hasil BMI: 31.25
+Kategori: Obesity / Obesitas
+----------------------------------------
+Nama: Nurul
+Gender: Perempuan
+Berat Badan: 49.0 kg
+Tinggi Badan: 155.0 cm
+Hasil BMI: 20.40
+Kategori: Normal weight / Ideal
+----------------------------------------
+Nama: aaaa
+Gender: Laki-laki
+Berat Badan: 150.0 kg
+Tinggi Badan: 170.0 cm
+Hasil BMI: 51.90
+Kategori: Obesity / Obesitas
+----------------------------------------
+Nama: aaaa
+Gender: Laki-laki
+Berat Badan: 150.0 kg
+Tinggi Badan: 170.0 cm
+Hasil BMI: 51.90
+Kategori: Obesity / Obesitas
+----------------------------------------
+Nama: alucard
+Gender: Laki-laki
+Berat Badan: 65.0 kg
+Tinggi Badan: 171.0 cm
+Hasil BMI: 22.23
+Kategori: Normal weight / Ideal
+----------------------------------------
+Nama: Balmond
+Gender: Perempuan
+Berat Badan: 90.0 kg
+Tinggi Badan: 150.0 cm
+Hasil BMI: 40.00
+Kategori: Obesity / Obesitas
+----------------------------------------
+Nama: Vale
+Gender: Perempuan
+Berat Badan: 50.0 kg
+Tinggi Badan: 170.0 cm
+Hasil BMI: 17.30
+Kategori: Underweight / Kurus
+----------------------------------------
+Nama: 
+Gender: 
+Berat Badan: 111.0 kg
+Tinggi Badan: 11.0 cm
+Hasil BMI: 9173.55
+Kategori: Obesity / Obesitas
+----------------------------------------
